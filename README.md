@@ -1,6 +1,7 @@
 ## python_financial_election_analysis
 
  ### PyBank: 
+ #### Overview:
  The Python script analyzes the records (budget_data.csv) to calculate each of the following values:
 - The total number of months included in the dataset.
 - The net total amount of "Profit/Losses" over the entire period.
@@ -11,6 +12,7 @@
 Results are printed on the terminal and exported to a text file (Financial_Analysis.txt).
 
  ### PyPoll: 
+ #### Overview:
  The Python script analyzes the records (election_data.csv) and calculates each of the following values:
 - The total number of votes cast.
 - A complete list of candidates who received votes.
