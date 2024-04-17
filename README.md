@@ -32,5 +32,7 @@ The winner of the election based on popular vote
 Results are printed on the terminal and exported to text file(Election Analysis.txt)
 
 * Reqirements:
+  
 python
+
 vscode
